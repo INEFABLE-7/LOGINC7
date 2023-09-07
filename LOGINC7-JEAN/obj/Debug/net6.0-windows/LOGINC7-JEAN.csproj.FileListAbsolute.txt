@@ -15,3 +15,4 @@ C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\refint\L
 C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\LOGINC7-JEAN.pdb
 C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\LOGINC7-JEAN.genruntimeconfig.cache
 C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\ref\LOGINC7-JEAN.dll
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\LOGINC7_JEAN.Form2.resources
