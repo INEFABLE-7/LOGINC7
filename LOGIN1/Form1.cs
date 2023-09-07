@@ -56,5 +56,18 @@ namespace LOGIN1
         {
             this.Close();
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+           
+                Form4 miFormulario = new Form4();
+                miFormulario.Show();
+            
+        }
     }
 }

@@ -9,3 +9,15 @@ C:\Users\Alumno\Desktop\JEANLOGIN\LOGIN1\obj\Debug\LOGIN1.csproj.GenerateResourc
 C:\Users\Alumno\Desktop\JEANLOGIN\LOGIN1\obj\Debug\LOGIN1.csproj.CoreCompileInputs.cache
 C:\Users\Alumno\Desktop\JEANLOGIN\LOGIN1\obj\Debug\LOGIN1.exe
 C:\Users\Alumno\Desktop\JEANLOGIN\LOGIN1\obj\Debug\LOGIN1.pdb
+C:\Users\Alumno\Desktop\JEAN LOGIN\LOGINC7\LOGIN1\bin\Debug\LOGIN1.exe.config
+C:\Users\Alumno\Desktop\JEAN LOGIN\LOGINC7\LOGIN1\bin\Debug\LOGIN1.exe
+C:\Users\Alumno\Desktop\JEAN LOGIN\LOGINC7\LOGIN1\bin\Debug\LOGIN1.pdb
+C:\Users\Alumno\Desktop\JEAN LOGIN\LOGINC7\LOGIN1\obj\Debug\LOGIN1.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\JEAN LOGIN\LOGINC7\LOGIN1\obj\Debug\LOGIN1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\JEAN LOGIN\LOGINC7\LOGIN1\obj\Debug\LOGIN1.Form1.resources
+C:\Users\Alumno\Desktop\JEAN LOGIN\LOGINC7\LOGIN1\obj\Debug\LOGIN1.Properties.Resources.resources
+C:\Users\Alumno\Desktop\JEAN LOGIN\LOGINC7\LOGIN1\obj\Debug\LOGIN1.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\JEAN LOGIN\LOGINC7\LOGIN1\obj\Debug\LOGIN1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\JEAN LOGIN\LOGINC7\LOGIN1\obj\Debug\LOGIN1.exe
+C:\Users\Alumno\Desktop\JEAN LOGIN\LOGINC7\LOGIN1\obj\Debug\LOGIN1.pdb
+C:\Users\Alumno\Desktop\JEAN LOGIN\LOGINC7\LOGIN1\obj\Debug\LOGIN1.Form4.resources
