@@ -1,0 +1,17 @@
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\bin\Debug\net6.0-windows\LOGINC7-JEAN.exe
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\bin\Debug\net6.0-windows\LOGINC7-JEAN.deps.json
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\bin\Debug\net6.0-windows\LOGINC7-JEAN.runtimeconfig.json
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\bin\Debug\net6.0-windows\LOGINC7-JEAN.dll
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\bin\Debug\net6.0-windows\LOGINC7-JEAN.pdb
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\LOGINC7-JEAN.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\LOGINC7_JEAN.Form1.resources
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\LOGINC7-JEAN.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\LOGINC7-JEAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\LOGINC7-JEAN.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\LOGINC7-JEAN.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\LOGINC7-JEAN.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\LOGINC7-JEAN.dll
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\refint\LOGINC7-JEAN.dll
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\LOGINC7-JEAN.pdb
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\LOGINC7-JEAN.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\JEANLOGIN\LOGINC7-JEAN\obj\Debug\net6.0-windows\ref\LOGINC7-JEAN.dll
